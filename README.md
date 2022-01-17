@@ -5,4 +5,17 @@
 
 >Шаг номер 3 запускаем .py файл с указанием вашего дискорд токена
 ---
-### в боте есть антикраш команда.
+## Бот разработан для предотвращения крашей и были добавлены др. функции
+### Список команд
+- !help
+- !mute
+- !ban
+- !hentai
+- !rule34
+- !clear
+- !warn
+- !xp
+- !shop
+- !bj
+- !rpfr (Remove permissions from roles)
+- !anticrash (to use when raiding, crashing)
