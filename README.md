@@ -1,4 +1,4 @@
-###### protector-selfbot
+# protector-selfbot
 >step 1 скачиваем python 3.7.6 https://www.python.org/downloads/
 
 >step 2 устанавливаем все зависимости
