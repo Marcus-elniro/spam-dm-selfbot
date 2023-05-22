@@ -19,6 +19,7 @@
 - !bj
 - !rpfr (Remove permissions from roles)
 - !anticrash (to use when raiding, crashing)
+- !spam <id_channel, id_guild>
 # NSFW Commands
 - !lesbian
 Random lesbian [Anime] 
